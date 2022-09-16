@@ -1,0 +1,10 @@
+{
+    "name": "zoli-s3-lambda-function",
+    "version": "0.0.1",
+    "devDependencies": {
+        "aws-sdk": "2.814.0"
+    },
+    "dependencies": {
+        "aws-xray-sdk-core": "1.1.2"
+    }
+}
